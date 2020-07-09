@@ -1481,3 +1481,10 @@ section {
 #footer .credits a {
   color: #9eccf4;
 }
+ 
+/** Moto style */
+#moto {
+    font-size: .5rem;
+    color: #0B224A;
+    font-weight: bold;
+}
