@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   display: block;
   position: relative;
   color: #5c768d;
-  padding: 12px 15px;
+  padding: 20px 50px;
   transition: 0.3s;
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
@@ -409,8 +409,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero p {
   width: 80%;
-  -webkit-animation-delay: 0.4s;
-  animation-delay: 0.4s;
+  -webkit-animation-delay: 1 s;
+  animation-delay: 1.s;
   color: #fff;
 }
 
