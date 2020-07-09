@@ -409,8 +409,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero p {
   width: 80%;
-  -webkit-animation-delay: 1s;
-  animation-delay: 1s;
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
   color: #fff;
 }
 
@@ -468,8 +468,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   line-height: 1;
   margin: 10px;
   color: #fff;
-  -webkit-animation-delay: 0.8s;
-  animation-delay: 0.8s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
   border: 0;
   background: #428bca;
 }
