@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   bottom: 15px;
   background: #428bca;
   color: #fff;
-  transition: display 0.5s ease-in-out;
+  transition: display 1s ease-in-out;
   z-index: 99999;
 }
 
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 .back-to-top:hover {
   color: #fff;
   background: #629fd3;
-  transition: background 0.2s ease-in-out;
+  transition: background 1s ease-in-out;
 }
 
 /*--------------------------------------------------------------
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border: 0;
   background: none;
   font-size: 24px;
-  transition: all 0.4s;
+  transition: all 1s;
   outline: none !important;
   line-height: 1;
   cursor: pointer;
@@ -605,7 +605,7 @@ section {
   height: 72px;
   background: #f1f7fb;
   border-radius: 6px;
-  transition: 0.5s;
+  transition: 1s;
 }
 
 .about .icon-box .icon i {
